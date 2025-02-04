@@ -38,15 +38,6 @@ body {
     font-size: 1em;
 }
 
-.cta-btn {
-    background-color: #ff9800;
-    border: none;
-    padding: 10px 15px;
-    color: white;
-    font-size: 1em;
-    cursor: pointer;
-}
-
 /* Hero Section */
 .hero {
     background: url('hero-bg.jpg') no-repeat center center/cover;
@@ -56,17 +47,6 @@ body {
 
 .hero h1 {
     font-size: 2.5em;
-    margin-bottom: 10px;
-}
-
-/* About Section */
-.about {
-    padding: 40px 20px;
-    background-color: white;
-}
-
-.about h2 {
-    font-size: 2em;
     margin-bottom: 10px;
 }
 
@@ -108,55 +88,8 @@ footer {
     padding: 20px;
 }
 
-/* Footer Links */
-.footer-links ul {
-    list-style: none;
-    padding: 0;
-}
-
-.footer-links ul li {
-    margin: 8px 0;
-}
-
-.footer-links a {
-    color: white;
-    text-decoration: none;
-}
-
-/* Social Media */
-.footer-social img {
-    width: 30px;
-    margin: 5px;
-    filter: invert(1); /* Makes SVG icons white */
-}
-
-/* Contact Form */
-.footer-contact form {
-    display: flex;
-    flex-direction: column;
-}
-
-.footer-contact input,
-.footer-contact textarea {
-    width: 100%;
-    padding: 8px;
-    margin: 5px 0;
-    border: none;
-    border-radius: 5px;
-}
-
-.footer-contact button {
-    background-color: #ff9800;
-    color: white;
-    border: none;
-    padding: 10px;
-    cursor: pointer;
-    margin-top: 5px;
-    border-radius: 5px;
-}
-
 /* Footer Bottom */
 .footer-bottom {
     margin-top: 20px;
     font-size: 0.9em;
-}    margin-top: 20px;
+}
